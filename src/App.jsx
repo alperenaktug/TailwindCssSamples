@@ -1,9 +1,11 @@
-import Colors from "./Component/Colors";
+// import Colors from "./Component/Colors";
+import Customization from "./Component/Customization";
 
 function App() {
   return (
     <div>
-      <Colors />
+      {/* <Colors /> */}
+      <Customization />
     </div>
   );
 }
