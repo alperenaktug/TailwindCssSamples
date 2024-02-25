@@ -11,7 +11,8 @@ function Customization() {
       </p>
 
       {/* sm : 480px , md : 768px , lg : 976px , xl: 1440px  boyutunu belirtiyor 
-          mb-1 alt satıra istenilen aralıkta boşluk bırakıyor*/}
+          mb-1 alt satıra istenilen aralıkta boşluk bırakıyor
+          */}
     </div>
   );
 }

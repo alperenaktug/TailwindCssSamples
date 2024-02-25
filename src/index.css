@@ -3,12 +3,10 @@
 @tailwind utilities;
 
 
-@layer base{
+/* @layer base{
   html{
     /* background-color: lime; */
-    @apply bg-slate-600  text-white text-lg font-bold;
+    /* @apply bg-slate-600  text-white text-lg font-bold; */
     
-
-  }
- 
-}
+/* Burada layer base yada conponenti kullanarak buradaki bölümlere 
+ apply i kullarak özelleştirebiliriz  bu goldukça güzel bir uygulamadadır */

@@ -2,6 +2,11 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    fontSize: {
+      sm: "1.2rem",
+      xl: "2.3rem",
+    },
+
     screeens: {
       sm: "480px",
       md: "768px",
