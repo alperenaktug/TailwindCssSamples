@@ -3,7 +3,9 @@
 // import Typography from "./Component/Typography";
 // import SpacesSize from "./Component/SpacesSize";
 
-import Flex from "./Component/Flex";
+import Grids from "./Component/Grids";
+
+// import Flex from "./Component/Flex";
 
 function App() {
   return (
@@ -12,7 +14,8 @@ function App() {
       {/* <Customization /> */}
       {/* <Typography /> */}
       {/* <SpacesSize /> */}
-      <Flex />
+      {/* <Flex /> */}
+      <Grids />
     </div>
   );
 }
