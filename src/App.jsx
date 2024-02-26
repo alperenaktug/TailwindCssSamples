@@ -1,7 +1,9 @@
 // import Colors from "./Component/Colors";
 // import Customization from "./Component/Customization";
 // import Typography from "./Component/Typography";
-import SpacesSize from "./Component/SpacesSize";
+// import SpacesSize from "./Component/SpacesSize";
+
+import Flex from "./Component/Flex";
 
 function App() {
   return (
@@ -9,7 +11,8 @@ function App() {
       {/* <Colors /> */}
       {/* <Customization /> */}
       {/* <Typography /> */}
-      <SpacesSize />
+      {/* <SpacesSize /> */}
+      <Flex />
     </div>
   );
 }
